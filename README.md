@@ -11,3 +11,15 @@ Wrap around win conditions are not considered.
 # Implementation
 
 We use a minimax tree with pruning to calculate the best move for the AI opponent. With a depth of three, the tree allows for efficient move selection while playing intelligently.   
+
+# How to play
+- Run the code using 
+```bash
+python game.py
+```
+
+- The AI will go first - their pieces are 'b' for black.
+- You are red ('r')
+- Try to win!!!
+
+
