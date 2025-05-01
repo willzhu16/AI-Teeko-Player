@@ -22,4 +22,7 @@ python game.py
 - You are red ('r')
 - Try to win!!!
 
+# Future Development
+- Creating a frontend for the application - I'll probably get to this in a few weeks after I graduate. 
+
 
